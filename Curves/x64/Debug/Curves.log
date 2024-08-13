@@ -1,0 +1,7 @@
+﻿  Curves.cpp
+C:\Users\NICKOLAS\Documents\Lab09\Curves\Curves\Curves.cpp(92,23): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\NICKOLAS\Documents\Lab09\Curves\Curves\Curves.cpp(100,23): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\NICKOLAS\Documents\Lab09\Curves\Curves\Curves.cpp(122,23): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\NICKOLAS\Documents\Lab09\Curves\Curves\Curves.cpp(129,23): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\NICKOLAS\Documents\Lab09\Curves\Curves\Curves.cpp(166,98): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Curves.vcxproj -> C:\Users\NICKOLAS\Documents\Lab09\Curves\x64\Debug\Curves.exe
